@@ -27,4 +27,3 @@ snoopy = Dog.new
 snoopy.breed
 snoopy.breed = "Beagle"
 snoopy.breed
-
