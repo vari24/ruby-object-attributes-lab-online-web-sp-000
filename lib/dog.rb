@@ -8,7 +8,7 @@ class Dog
     @this_dogs_name
   end
 
-  def breed=(beagle)
+  def breed=(breed)
     @breed = breed
   end
 
